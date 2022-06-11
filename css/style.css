@@ -731,7 +731,7 @@ a, a:link, a:visited, a:hover, a:active
 	margin:0 auto;
 	max-width:1920px;
 	background-color:#000;
-	background-image:url('https://api.rnm.plus/api/acimg');
+	background-image:url('https://img.xjh.me/random_img.php?type=bg&ctype=nature&return=302');
 	background-position:top center;
 	background-repeat:no-repeat;
 	background-size:cover;
